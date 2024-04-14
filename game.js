@@ -30,7 +30,7 @@ function questionsGenerator () {
 // 8/1 = 8
 // 8*1 = 8
 // 1*8 = 8
-// 8/0 = Error?
+// 8/0 = Infinity
 
 // 8-0 = 8
 // 8+0 = 8
