@@ -20,9 +20,16 @@
 
 ### 📚 Libraries & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,react,vite,p5js,bootstrap,nodejs,express,ejs,spring,wordpress" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,react,vite,p5js,bootstrap,nodejs,express,spring,wordpress" /
 </p>
-<!-- TODO: ml5.js, pandas, matplotlib, numpy -->
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
+</p>
+<!-- TODO: ml5.js -->
 
 ### 💻 Programming Languages & Databases
 <p>
@@ -31,22 +38,26 @@
 
 ### 🛠 Tools & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,figma,xcode" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,xcode" />
 </p>
 
+### 📕 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,supabase,rust,tensorflow" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=desraymondz&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desraymondz&layout=compact&theme=tokyonight)  
+[![Desmond's stats](https://github-readme-stats.vercel.app/api?username=desraymondz)](https://github.com/desraymondz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desraymondz)](https://github.com/desraymondz/github-readme-stats)
 
 ---
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://linkedin.com/in/desmond05)  
-<!-- TODO: [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://yourwebsite.com)   -->
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:desmond4705@gmail.com)  
+<!-- TODO: [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://yourwebsite.com)   -->
 
 ---
 
