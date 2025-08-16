@@ -15,7 +15,7 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,firebase,supabase,vercel" />
 </p>
 
 ### 📚 Libraries & Frameworks
