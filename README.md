@@ -43,7 +43,7 @@
 
 ### 📕 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,supabase,rust,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,tensorflow" />
 </p>
 
 ---
