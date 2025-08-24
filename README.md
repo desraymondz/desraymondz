@@ -51,6 +51,9 @@
 ## 📊 GitHub Stats  
 [![Desmond's stats](https://github-readme-stats.vercel.app/api?username=desraymondz)](https://github.com/desraymondz/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desraymondz)](https://github.com/desraymondz/github-readme-stats)
+<div align="left">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desraymondz&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
 ---
 
